@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PostersCollectionViewController.h
 //  Movieposters
 //
 //  Created by HSummy on 11/30/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PostersCollectionViewController : UICollectionViewController
 
 @end
-
